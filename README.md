@@ -201,4 +201,4 @@ MIT
 
 ## 👨‍💻 Author
 
-Built for Tecmilenio - Web Applications Design Course
+Built for Nicholas Josue Ceballos Lopez - Web Applications Design Course
